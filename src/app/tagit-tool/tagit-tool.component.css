@@ -1,0 +1,8 @@
+.custom-container-flex{
+  display:flex;
+  padding-top: 20px;
+  flex-direction: row;
+}
+.toolbar-flex .canvas-flex{
+  flex: auto;
+}

@@ -1,0 +1,24 @@
+.toolbar-css{
+  display:flex;
+  flex-direction: column;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.toolbox-item {
+  
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  img {
+    width: 28px;
+  }
+  
+  .selected {
+    background-color: grey;
+  }
+  
